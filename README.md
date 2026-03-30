@@ -73,14 +73,15 @@ ylabel("Amplitude")
 
 Output Graph:
 
-![WhatsApp Image 2026-03-20 at 9 08 06 AM](https://github.com/user-attachments/assets/0d671d4e-3450-4de7-87ff-9c9f5e5e97b5)
-
+```
+[WhatsApp Image 2026-03-20 at 9 08 06 AM](https://github.com/user-attachments/assets/b6f78059-8486-4d00-9594-b404ce65f37d)
+```
 
 Tablular Column:
 
-<img width="772" height="640" alt="image" src="https://github.com/user-attachments/assets/82ab577a-83d4-4fef-9cbd-19aaa202374f" />
-
-
+```
+<img width="772" height="640" alt="image" src="https://github.com/user-attachments/assets/b205472a-b5e9-430c-ab10-f25cdd0046f6" />
+```
 
 Result
 
