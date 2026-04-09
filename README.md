@@ -33,11 +33,11 @@ clear;
 close;
 
 // Parameters
-Am = 3.7;        // Message amplitude
-Ac = 7.4;        // Carrier amplitude
-fm = 166;      // Message frequency (Hz)
-fc = 1660;     // Carrier frequency (Hz)
-fs = 16600;    // Sampling frequency (Hz)
+Am = 10.3;        // Message amplitude
+Ac = 20.6;        // Carrier amplitude
+fm = 386;      // Message frequency (Hz)
+fc = 3860;     // Carrier frequency (Hz)
+fs = 38600;    // Sampling frequency (Hz)
 
 // Time vector
 t = 0:1/fs:0.05;
@@ -79,7 +79,8 @@ Output Graph:
 
 Tablular Column:
 
-<img width="772" height="640" alt="image" src="https://github.com/user-attachments/assets/b205472a-b5e9-430c-ab10-f25cdd0046f6" />
+![WhatsApp Image 2026-04-09 at 1 04 50 PM](https://github.com/user-attachments/assets/706bdbdb-d956-4a9d-ae9b-96bc33eafef7)
+
 
 Result
 
